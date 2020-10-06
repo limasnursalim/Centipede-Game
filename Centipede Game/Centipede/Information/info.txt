@@ -1,0 +1,18 @@
+Centipede
+
+Centipede is a classic atari game
+
+How to play:
+
+W,A,S,D to move 
+
+Spacebar to shoot
+
+
+Developers:
+
+Edwin Lau Mack, Raymond Anggono
+
+Limas Nursalim, Hansel Rahardjo
+
+Spring 2020
